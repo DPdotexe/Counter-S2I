@@ -1,0 +1,80 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+body{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  font-family: Montserrat, sans-serif;
+  gap: 2rem;
+  height: 100%;
+  background-color: #343F4F;
+}
+/*style contatore */
+#counter{
+  width:700px;
+  height:350px;
+  box-shadow: 0px 0px 50px 0px rgba(0,0,0,0.4);
+  background-color: #e52b50;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+/*style numero */
+#number{
+  width:200px;
+  height:150px;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Montserrat';
+  font-size:60px;
+  font-weight: bold;
+  box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.3);
+  overflow: hidden;
+}
+/*style bottoni*/
+#bottoni{
+  margin-top:30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+}
+button{
+  width: 180px;
+  height:100px;
+  font-weight: bold;
+  outline:none;
+  border:none;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Montserrat';
+  font-size:60px;
+  margin:0 30px;
+  box-shadow: 0px 0px 40px 0px rgba(0,0,0,0.3);
+  cursor:pointer;
+  transition:all 0.4s ease-in-out;
+}
+
+button:hover{
+  transform: scale(1.02);
+}
+button:active{
+  background-color: #cccccc;
+}
+footer{
+  color:#cccccc;
+  text-align: center;
+  position: absolute; 
+  bottom: 200;
+  left:0;
+  right:0;
+}
+
