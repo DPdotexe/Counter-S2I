@@ -10,5 +10,5 @@ use negative numbers!
 - HTML
 - CSS
 - Javascript
-## :e-mail: Contact Me
+## :e-mail: Contact me
 Any questions? Send me an e-mail here: danielepuleri97@gmail.com
