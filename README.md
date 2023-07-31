@@ -11,4 +11,4 @@ use negative numbers!
 - CSS
 - Javascript
 ## :e-mail: Contact Me
-Any questions? Send me an e-mail here:danielepuleri97@gmail.com
+Any questions? Send me an e-mail here: danielepuleri97@gmail.com
