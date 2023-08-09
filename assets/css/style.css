@@ -87,13 +87,9 @@ footer{
   bottom:0;
   margin-bottom:120px;
 }
-<<<<<<< HEAD
 
 /* responsive */
 
-=======
-/* responsive */
->>>>>>> 67113bb579db7d4984a6466814ba54acd85dcfdd
 @media only screen and (min-width:250px) and (max-width: 1900px) {
   #counter {
     font-size: 10px;
