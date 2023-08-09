@@ -54,7 +54,7 @@ function colorCounter() {
 		counterDP.style.color = 'green';
 	}
 }
-// Numbers style
+// numbers styles
 subBtn.addEventListener("click", function() {
   count -= 1;
 	counterDP.innerHTML = count;
@@ -72,5 +72,7 @@ addBtn.addEventListener("click", function() {
 	counterDP.innerHTML = count;
 	colorCounter();
 })
-
+// buttons styles
+addBtn.style.color = 'green';
+subBtn.style.color = 'red';
 
